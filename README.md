@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/viatcheslavmogilevsky/flame/master/public/image/flame.png" alt="Flame Logo" title="Logo from Stockio (https://www.stockio.com)" />
+<img src="https://github.com/viatcheslavmogilevsky/flame/raw/master/public/images/flame.png" alt="Flame Logo" title="Logo from Stockio (https://www.stockio.com)" />
 <br>
 flame
 </h1>
