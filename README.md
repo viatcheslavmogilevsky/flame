@@ -37,23 +37,23 @@ Provide preloaded runtime (process-pool or thread-pool) for wide range of tasks:
   </tr>
   <tr>
     <td>Service</td>
-    <td>❎</td> 
     <td>❎</td>
     <td>❎</td>
-    <td>❎</td> 
+    <td>❎</td>
+    <td>❎</td>
     <td>❎</td>
   </tr>
   <tr>
     <td>Job</td>
-    <td>❎ 📍</td> 
+    <td>❎ 📍</td>
     <td>❎</td>
     <td>❎</td>
-    <td>❎</td> 
+    <td>❎</td>
     <td>❎</td>
   </tr>
   <tr>
     <td>Interactive</td>
-    <td>❎</td> 
+    <td>❎</td>
     <td>❎</td>
     <td>❎</td>
     <td>❎</td> 
@@ -62,7 +62,7 @@ Provide preloaded runtime (process-pool or thread-pool) for wide range of tasks:
 </table>
 
 
-### Spaw'n'Go (one function call -> one thread)
+### Spawn'Go (one function call -> one thread)
 
 <table>
   <tr>
@@ -75,26 +75,26 @@ Provide preloaded runtime (process-pool or thread-pool) for wide range of tasks:
   </tr>
   <tr>
     <td>Service</td>
-    <td>❎</td> 
     <td>❎</td>
     <td>❎</td>
-    <td>❎</td> 
+    <td>❎</td>
+    <td>❎</td>
     <td>❎</td>
   </tr>
   <tr>
     <td>Job</td>
-    <td>❎</td> 
     <td>❎</td>
     <td>❎</td>
-    <td>❎</td> 
+    <td>❎</td>
+    <td>❎</td>
     <td>❎</td>
   </tr>
   <tr>
     <td>Interactive</td>
-    <td>❎</td> 
     <td>❎</td>
     <td>❎</td>
-    <td>❎</td> 
+    <td>❎</td>
+    <td>❎</td>
     <td>❎</td>
   </tr>
 </table>
